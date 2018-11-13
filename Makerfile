@@ -1,0 +1,2 @@
+sortermake: main.c directories.c scannerCSVsorter.c mergesort.c
+	gcc -o multiThreadSorter main.c directories.c scannerCSVsorter.c mergesort.c
